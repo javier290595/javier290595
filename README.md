@@ -1,5 +1,5 @@
 |nombre  | Quien ? | Cuando?  | Porque ?
-| :--:    | :--:    |  :--:    |    
+| :---:  | :---:   |  :---:   |    
 |Hadoop| el ingeniero de software Doug Cutting | 2004| describe en un documento técnicas para manejar grandes volúmenes de datos, desgranándolos en problemas cada vez más pequeños para hacerlos abordables.
 |Flume| x | 2012| es un servicio distribuido, fiable, y altamente disponible para recopilar, agregar, y mover eficientemente grandes cantidades de datos.
 |MapReduce | Jeffrey Dean y Sanjay Ghemawat | 2004| se emplea en la resolución práctica de algunos algoritmos susceptibles de ser paralelizados. No obstante MAPREDUCE no es la solución para cualquier problema, de la misma forma que cualquier problema no puede ser resuelto eficientement.
