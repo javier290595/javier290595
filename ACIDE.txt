@@ -1,0 +1,9 @@
+ACID en inglés representa las propiedades atomicidad, consistencia, aislamiento y  durabilidad; características que garantizan que los cambios hechos en una base se realizarán de forma fiable y no provocarán errores en cascada en caso de ejecutar una modificación errónea.
+
+Atomicidad: Es la idea del “todo o nada”. Si en un conjunto de operaciones existe un fallo, cualquier cambio realizado se deshace automáticamente. 
+
+Consistencia: Esta propiedad implica que cualquier cambio que hagamos hará que la base de datos pase de un estado válido a otro estado válido. Las operaciones realizadas no incumplirán las restricciones del sistema. 
+
+Aislamiento: Habrá ocasiones en las que se ejecuten varias operaciones sobre la misma información. El aislamiento nos garantiza que una operación no afecte a otra, es decir cada cambio se realiza de forma independiente sobre la información a la que va dirigido para evitar errores. 
+
+Durabilidad: Es la garantía de que una vez un cambio surte efecto en la base de datos, este persistirá incluso si el sistema falla después de la realización de dicho cambio.  
